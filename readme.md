@@ -2,5 +2,6 @@
 
 [2. 시각화](visual.md)<br>
 
-[3. scikit-learn](sklearn.md)<br>
+[3. 머신러닝](ml.md)<br>
+[ - scikit-learn](sklearn.md)<br>
 
