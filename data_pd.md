@@ -67,16 +67,16 @@ data.describe(include='all')
 </code></pre>
 
 ><table>
-<tr><td></td><td>	value</td></tr>
-<tr><td>count</td><td>	33.000000</td></tr>
-<tr><td>mean</td><td>	219.212121</td></tr>
-<tr><td>std</td><td>	20.897081</td></tr>
-<tr><td>min</td><td>	171.000000</td></tr>
-<tr><td>25%</td><td>	205.000000</td></tr>
-<tr><td>50%</td><td>	216.500000</td></tr>
-<tr><td>75%</td><td>	231.500000</td></tr>
-<tr><td>max</td><td>	265.000000</td></tr>
-</table>
+><tr><td></td><td>	value</td></tr>
+><tr><td>count</td><td>	33.000000</td></tr>
+><tr><td>mean</td><td>	219.212121</td></tr>
+><tr><td>std</td><td>	20.897081</td></tr>
+><tr><td>min</td><td>	171.000000</td></tr>
+><tr><td>25%</td><td>	205.000000</td></tr>
+><tr><td>50%</td><td>	216.500000</td></tr>
+><tr><td>75%</td><td>	231.500000</td></tr>
+><tr><td>max</td><td>	265.000000</td></tr>
+></table>
 
 ### 3) head & tail : 처음 & 끝의 데이터 일부행 출력
 <pre><code>data.head()
@@ -96,8 +96,6 @@ data.tail().describe()</code></pre>
 </code></pre>
 
 cust_ID, prd_CD 은 남겨두고 나머지를 key(컬럼명) value(값)을 새로운 두개의 컬럼으로 만듬
-
-++ 이미지 추가
 
 ### 2) crosstab
 ![](img/cross_pandas.jpeg)<br>
