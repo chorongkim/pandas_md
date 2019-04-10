@@ -1,5 +1,7 @@
 # Scikit-learn
 
+![](img/skl_map.png)
+https://scikit-learn.org/stable/tutorial/machine_learning_map/
 
 ## 1) sckit을 이용한 기본학습과정
 
